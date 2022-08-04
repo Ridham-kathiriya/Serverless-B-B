@@ -1,0 +1,8 @@
+{
+    "name": "fulfill-meal",
+    "version": "0.0.1",
+    "dependencies":{
+      "firebase-admin": "^9.2.0",
+      "@google-cloud/pubsub": "^3.0.1"
+    }
+}

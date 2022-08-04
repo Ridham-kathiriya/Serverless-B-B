@@ -1,0 +1,7 @@
+{
+  "name": "get-user-status",
+  "version": "0.0.1",
+  "dependencies": {
+    "firebase-admin": "^9.2.0"
+  }
+}
