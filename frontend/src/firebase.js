@@ -4,7 +4,7 @@ import { getMessaging, getToken, onMessage } from 'firebase/messaging';
 import { doc, getDoc, setDoc } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyDaAPyPstHvaxP1f9OBOtQCXtBbhjzdqvc',
+  apiKey: '',
   authDomain: 'serverlessbnb-354422.firebaseapp.com',
   projectId: 'serverlessbnb-354422',
   storageBucket: 'serverlessbnb-354422.appspot.com',
